@@ -5,6 +5,6 @@ Convert vertex weights to UV coordinates, for use in shaders. The [Tissue](https
 # Instructions
 
 - Select the vertex group you wish to convert to UV map.
-- Select the object in `Object` mode, and click on `Object > Vertex Weights to UV > Vertex Weights to UV`.
+- Select the object in `Object` mode, and click on `Object > Vertex Weights to UV > Active Vertex Group`(or `All Vertex Groups`).
 - This should create a new UV map with the same name as the selected vertex group.
 - The weights in the vertex group are now available in the Shader editor through the "UV Map" node.
