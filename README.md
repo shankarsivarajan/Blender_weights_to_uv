@@ -2,7 +2,7 @@
 
 Convert vertex weights to UV coordinates, for use in shaders. The [Tissue](https://github.com/alessandro-zomparelli/tissue) addon includes this function for the reaction–diffusion weights.
 
-# Instructions
+## Instructions
 
 - Select the vertex group you wish to convert to UV map.
 - Select the object in `Object` mode, and click on `Object > Vertex Weights to UV > Active Vertex Group`(or `All Vertex Groups`).
